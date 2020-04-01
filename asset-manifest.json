@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pencari-mooonsteer/static/css/main.c1b5e86d.chunk.css",
+    "main.js": "/pencari-mooonsteer/static/js/main.d6f796ab.chunk.js",
+    "main.js.map": "/pencari-mooonsteer/static/js/main.d6f796ab.chunk.js.map",
+    "runtime-main.js": "/pencari-mooonsteer/static/js/runtime-main.f59317d9.js",
+    "runtime-main.js.map": "/pencari-mooonsteer/static/js/runtime-main.f59317d9.js.map",
+    "static/js/2.88b06007.chunk.js": "/pencari-mooonsteer/static/js/2.88b06007.chunk.js",
+    "static/js/2.88b06007.chunk.js.map": "/pencari-mooonsteer/static/js/2.88b06007.chunk.js.map",
+    "index.html": "/pencari-mooonsteer/index.html",
+    "precache-manifest.8301609d1efc6b2b539c71fcf172faaa.js": "/pencari-mooonsteer/precache-manifest.8301609d1efc6b2b539c71fcf172faaa.js",
+    "service-worker.js": "/pencari-mooonsteer/service-worker.js",
+    "static/css/main.c1b5e86d.chunk.css.map": "/pencari-mooonsteer/static/css/main.c1b5e86d.chunk.css.map",
+    "static/js/2.88b06007.chunk.js.LICENSE.txt": "/pencari-mooonsteer/static/js/2.88b06007.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f59317d9.js",
+    "static/js/2.88b06007.chunk.js",
+    "static/css/main.c1b5e86d.chunk.css",
+    "static/js/main.d6f796ab.chunk.js"
+  ]
+}
